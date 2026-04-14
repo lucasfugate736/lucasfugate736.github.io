@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+# Lucas Fugate
+
+Hunter College High school student based in New York City. Current primary interest of mechanistic interpretability.
+
+## Current work
+
+Investigating whether DeepMind's searchless chess transformer represents tactical concepts like pins as linear features in its residual stream.
+
+## Interests
+
+Mechanistic interpretability of game-playing neural networks, especially chess. Applications of interpretability to AI safety.
+
+## Accomplishments
+
+- USACO Gold
+- AIME Qualifier
+- Expert Title in Chess
+
+## Contact
+
+Gmail: lucasfugate@gmail.com
+LinkedIn: https://www.linkedin.com/in/lucas-fugate-49b15b3a6/
