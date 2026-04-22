@@ -22,5 +22,5 @@ Mechanistic interpretability of game-playing neural networks, especially chess. 
 
 ## Contact
 
-- Gmail: lucasfugate@gmail.com
+- Gmail: lucasfugate@gmail.com or lucasfugate@hunterschools.org
 - LinkedIn: https://www.linkedin.com/in/lucas-fugate-49b15b3a6/
